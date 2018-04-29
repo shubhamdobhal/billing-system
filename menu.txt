@@ -1,0 +1,9 @@
+           ==============|| M E N U ||===============
+
+	No.	Item		  Price Per Item
+	
+	1. 	roti 	     		5/-
+	2. 	rice 	     		30/-
+	3. 	dal makhani  		50/-
+	4.	chicken kadayi 		150/-
+	5.	fish 			180/-
